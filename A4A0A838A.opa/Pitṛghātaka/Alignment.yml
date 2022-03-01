@@ -1,0 +1,40 @@
+segment_sources:
+  PF1C00644:
+    type: origin_type
+    relation: translation
+    language: sa
+  P07DCCE3D:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  3ae79bda6c3642c7a611c4573e41cbf5:
+    PF1C00644: None
+    P07DCCE3D: d53c2e46069a49b3bc6125e3135f9e40
+  c22fcacd6ccb46b6b185205df12b8486:
+    PF1C00644: None
+    P07DCCE3D: ad098023ce2d497988c6fcde15e27aed
+  b5c899a3ba9c431b9c3a260b25b11a23:
+    PF1C00644: None
+    P07DCCE3D: b519e22665f44ef584324865dad1ff3e
+  4fe55d4266b34f09b3ea986e0668e6ec:
+    PF1C00644: None
+    P07DCCE3D: c95f56b4900d4e3f9934adcde28d2754
+  f03c26730abb4ecdaad1d198cdfa3f02:
+    PF1C00644: None
+    P07DCCE3D: 52d8d9ea47b4494c84e8b645c387f1d0
+  5845c688b78342899e6f5f4bb7e91fe7:
+    PF1C00644: None
+    P07DCCE3D: 564ae145e7fc48fbbbc02408d832779b
+  5793b9a33a514b6ab4e7142893e7ca54:
+    PF1C00644: None
+    P07DCCE3D: adf5b376687c4856ad2ca6d6c2478e1e
+  5f5e6bfe000a4e88a5f7332514594866:
+    PF1C00644: None
+    P07DCCE3D: f2b649a39c1f426f9bd462712e17059b
+  244ea57d2ee74a49bba859334a019b1e:
+    PF1C00644: None
+    P07DCCE3D: 72f691f3c72649cbb966ee04219b8374
+  02993355b4534c6b83fb457bde806107:
+    PF1C00644: None
+    P07DCCE3D: c915ee0717f24636877a05c88e0c0154

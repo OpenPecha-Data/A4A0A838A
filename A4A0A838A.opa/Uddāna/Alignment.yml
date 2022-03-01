@@ -1,0 +1,13 @@
+segment_sources:
+  PF1C00644:
+    type: origin_type
+    relation: translation
+    language: sa
+  P07DCCE3D:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f6ce509300114273b9df8747e68cb6d2:
+    PF1C00644: 8d7b7a2fe15b4d3dac4e6b4f8bcfd4c9
+    P07DCCE3D: 3e007761cee14f20a688f49a7d66c9a2

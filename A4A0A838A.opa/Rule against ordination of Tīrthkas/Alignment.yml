@@ -1,0 +1,22 @@
+segment_sources:
+  PF1C00644:
+    type: origin_type
+    relation: translation
+    language: sa
+  P07DCCE3D:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  7c70be5413df4f9183be3909070e924f:
+    PF1C00644: 97f3f731259d47c59f484998b57f9a77
+    P07DCCE3D: 9863065323664761ae5511d4c39d3ace
+  5477757ce49b4818ab074d6094618d8d:
+    PF1C00644: 6b5b838f25494d96b6cca805a0f3f258
+    P07DCCE3D: 675698e3edc14148860a0935e4ae51e4
+  e4c225533c3144a4876869a2c77951f7:
+    PF1C00644: 5d22c5a2fea64c4e89043abe9c833613
+    P07DCCE3D: 71c4ff1594da4b86bf30c5e5b326166c
+  1e8b60769532420f9f929936102dc7a5:
+    PF1C00644: 7b0435b1f8604128a8279470dddd24eb
+    P07DCCE3D: 5fd1b9add9a04f90ae43864bbe1a2483
